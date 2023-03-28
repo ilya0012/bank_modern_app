@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/54239955/228117655-daa68fba-e4f1-4080-
+![image](https://user-images.githubusercontent.com/54239955/228117813-5b8a9d80-40f2-4ebd-b144-20c401b5eb2c.png)
+
 ### bank_modern_app
 
 # http://modernapp-iliachistov.website/
